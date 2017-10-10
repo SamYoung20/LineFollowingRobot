@@ -8,7 +8,7 @@
 */
 #include "Servo.h" // Included the Servo library
 
-const int analogInPin = A0;  // Analog input pin that the sensor is attached to
+const int analogInPin = A1;  // Analog input pin that the sensor is attached to
 
 Servo topServo;
 
